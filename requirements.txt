@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+boto3
+joblib
+numpy
+mangum
+xgboost
